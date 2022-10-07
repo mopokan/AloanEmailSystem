@@ -77,5 +77,10 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    
    (Aloan) C:\Users\xxx\Desktop>
    ```
+4. ทำการรันโดยใช้คำสั่งดังต่อไปนี้
+   ```
+   python AloanEmailClient.py
+   ```
+5. โดยเมื่อรันแล้ว โปรแกรมจะแสดงผลลักษณะดังนี้
    
 
