@@ -55,5 +55,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 ## Parameter Configuration
 
 ในการที่จะรันโปรแกรมนี้ให้ทำงาน นอกจากการติดตั้งlibrary ที่จำเป็นแล้วต้องมีการตั้งค่าparameter ใน AloanEmailClient.py ด้วย โดยได้แก่
-1. ``` account_1="Your wallet address" ```
+ ``` account_1="Your wallet address" #ตั้งค่า wallet address ของตนเอง  
+     private="Your private key" #ตั้งค่า private key จากwallet address ของตนเอง
+ ```
      
