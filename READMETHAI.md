@@ -47,5 +47,9 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        conda env create -f environment.yml
        conda activate Aloan
        ```
+   - เมื่อสำเร็จจะมีชื่อนำหน้า PATH เช่น
+     - ```
+       (Aloan) C:\Users\xxx
+       ```
     
      
