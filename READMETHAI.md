@@ -49,7 +49,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        ```
    - เมื่อสำเร็จจะมีชื่อนำหน้า PATH เช่น
      - ```
-       (Aloan) C:\Users\xxx
+       (Aloan) C:\Users\xxx>
        ```
 
 ## Parameter Configuration
