@@ -82,5 +82,20 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    python AloanEmailClient.py
    ```
 5. โดยเมื่อรันแล้ว โปรแกรมจะแสดงผลลักษณะดังนี้
+   ```
+   
+   (Aloan) C:\Users\ai_pc\Desktop>python AloanEmail_Bob.py
+
+   Welcome to Aloan email system. Please fill your information:
+   The Aloan mail system is a decentralized email system. That means no server fail incident
+
+   --->Go-Online :)
+   Who do you want to talk(wallet address):0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+   Your HODL-Value: 0.00xxxxxxxxx BNB ,(Quota remain: xx mails)
+
+   latest mail(e),write some email(w),Your Quota(yq),Exit(!ex!)
+   You:
+   ```
    
 
