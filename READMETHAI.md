@@ -37,4 +37,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    
    - ทำการ install web3.py
      - ``` pip install web3 ```
+   - ทำการ install requests
+     - ``` pip install requests ```
+   
      
