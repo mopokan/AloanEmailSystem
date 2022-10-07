@@ -12,4 +12,8 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
   <img alt="Working diagram of Email System and AloanEmailSystem." src="https://github.com/mopokan/AloanEmailSystem/blob/main/Email&AloanEmailSystem_workingDiagram.jpg?raw=true" width="848" height="500">
 </p>
 
-ในส่วนของหลักการทำงาน
+ในส่วนของหลักการทำงานของ AloanEmailSystem จะเริ่มต้นการทำงานเมื่อผู้ใช้ทำการรันโปรแกรม AloanEmailClient.py โดยโปรแกรมนี้จะทำการเก็บข้อมูลผู้ส่งที่เราต้องการจะติดต่อ และให้เลือก3โหมด
+1.โหมด latest mail-->
+2.โหมด write some email-->
+3.โหมด Your Quota-->
+4.โหมด Exit-->
