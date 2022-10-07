@@ -52,7 +52,8 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        (Aloan) C:\Users\xxx
        ```
 
-## Configuration parameter
+## Parameter Configuration
 
-ในการที่จะรันโปรแกรมนี้ให้ทำงาน นอกจากการติดตั้งlibrary ที่จำเป็นแล้วต้องมีการตั้งค่าparameter ใน AloanEmailClient.py ด้วย 
+ในการที่จะรันโปรแกรมนี้ให้ทำงาน นอกจากการติดตั้งlibrary ที่จำเป็นแล้วต้องมีการตั้งค่าparameter ใน AloanEmailClient.py ด้วย โดยได้แก่
+1. ``` account_1="Your wallet address" ```
      
