@@ -60,7 +60,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
  private="Your private key" #ตั้งค่า private key จากwallet address ของตนเอง
  apikey="Your apikey" #ตั้งค่า apikey ของตนเอง ซึ่งอยูที่บรรทัดที่45
  ```
-โดย[APIKEY สามารถขอได้จากที่นี้](https://bscscan.com/apis)
+โดย [APIKEY สามารถขอได้จากที่นี้](https://bscscan.com/apis)
 
 ## RUN the program
 
