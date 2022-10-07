@@ -57,7 +57,9 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 ในการที่จะรันโปรแกรมนี้ให้ทำงาน นอกจากการติดตั้งlibrary ที่จำเป็นแล้วต้องมีการตั้งค่าparameter ใน AloanEmailClient.py ด้วย โดยได้แก่
  ``` 
  account_1="Your wallet address" #ตั้งค่า wallet address ของตนเอง  
+ 
  private="Your private key" #ตั้งค่า private key จากwallet address ของตนเอง
+ 
  apikey="Your apikey" #ตั้งค่า apikey ของตนเอง ซึ่งอยูที่บรรทัดที่45
  ```
 โดย [APIKEY สามารถขอได้จากที่นี่](https://bscscan.com/apis)
@@ -69,5 +71,11 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    ```
    conda activate Aloan
    ```
-3. 
+3. หลังจากนั้น ให้ทำการเปลี่ยน PATH ของ cmd ให้อยู่ในPATH เดียวกับ AloanEmailClient.py โดยใช้คำสั่งcd เช่น
+   ```
+   (Aloan) C:\Users\xxx>cd desktop
+   
+   (Aloan) C:\Users\xxx\Desktop>
+   ```
+   
 
