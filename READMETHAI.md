@@ -39,5 +39,6 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        pip install web3 
        pip install requests
        ```
-   
+2. Anaconda environment.yml install-->วิธีนี้แนะนำสำหรับผู้ที่เป็นมือใหม่ โดยโปรแกรมนี้จะทำการติดตั้งlibraryที่จำเป็นอัตโนมัติและช่วยในการจัดการ environment ของโปรแกรม
+   - ทำการ install [Anaconda](https://www.anaconda.com/products/distribution)
      
