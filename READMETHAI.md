@@ -35,9 +35,11 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 ก่อนที่จะเริ่มทำการรันโปรแกรมจะต้องมีการติดตั้ง library ที่จำเป็นต่างๆเพื่อให้โปรแกรมสามารถทำงานได้อย่างสมบูรณ์ โดยสามารถติดตั้งได้2วิธี ได้แก่
 1. PIP install-->วิธีนี้แนะนำสำหรับผู้ที่มีความรู้พื้นฐานการจัดการ environment ของโปรแกรม 
    
-   - ทำการ install web3.py
-     - ``` pip install web3 ```
-   - ทำการ install requests
-     - ``` pip install requests ```
+   - ทำการ install web3.py และ requests
+     - ``` 
+       pip install web3 
+       pip install requests
+       
+       ```
    
      
