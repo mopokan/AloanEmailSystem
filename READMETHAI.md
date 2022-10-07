@@ -8,3 +8,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 
 ## หลักการทำงานของ AloanEmailSystem
 
+<picture>
+  <img alt="Working diagram of Email System and AloanEmailSystem." src="https://github.com/mopokan/AloanEmailSystem/blob/main/Email&AloanEmailSystem_workingDiagram.jpg?raw=true">
+</picture>
+
