@@ -83,8 +83,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    ```
 5. โดยเมื่อรันแล้ว โปรแกรมจะแสดงผลลักษณะดังนี้
    ```
-   
-   (Aloan) C:\Users\ai_pc\Desktop>python AloanEmail_Bob.py
+   (Aloan) C:\Users\xxx\Desktop>python AloanEmailClient.py
 
    Welcome to Aloan email system. Please fill your information:
    The Aloan mail system is a decentralized email system. That means no server fail incident
