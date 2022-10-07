@@ -58,5 +58,6 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
  ``` 
  account_1="Your wallet address" #ตั้งค่า wallet address ของตนเอง  
  private="Your private key" #ตั้งค่า private key จากwallet address ของตนเอง
+ apikey="Your apikey" #ตั้งค่า apikey ของตนเอง ซึ่งอยูที่บรรทัดที่45
  ```
      
