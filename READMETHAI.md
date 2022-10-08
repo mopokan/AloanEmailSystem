@@ -66,12 +66,33 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 
 ## RUN the program
 
+### การรันโปรแกรมบน IDLE
+
+1. ทำการ download [AloanEmailClient.py](https://github.com/mopokan/AloanEmailSystem/blob/main/src/AloanEmailClient.py)
+2. ทำการเปิดไฟล์ AloanEmailClient.py บน IDLE และทำการรัน
+
+### การรันบน CMD
+
+1. ทำการ download [AloanEmailClient.py](https://github.com/mopokan/AloanEmailSystem/blob/main/src/AloanEmailClient.py)
+2. ทำการเปลี่ยน PATH บน CMD ให้ตรงกับ PATH ของไฟล์ AloanEmailClient.py โดยใช้คำสั่งcd เช่น
+   ```
+   C:\Users\USER>cd desktop
+   
+   C:\Users\USER\Desktop>
+   ```
+3. ทำการรันโปรแกรม โดยใช้คำสั่งดังนี้
+   ```
+   python AloanEmailClient.py
+   ```
+   
+### การรันบน Anaconda Prompt
+
 1. ทำการ download [AloanEmailClient.py](https://github.com/mopokan/AloanEmailSystem/blob/main/src/AloanEmailClient.py)
 2. ทำการเปิด Anaconda prompt จากนั้นทำการ Activate environment โดยใช้คำสั่ง
    ```
    conda activate Aloan
    ```
-3. หลังจากนั้น ให้ทำการเปลี่ยน PATH ของ cmd ให้อยู่ในPATH เดียวกับ AloanEmailClient.py โดยใช้คำสั่งcd เช่น
+3. หลังจากนั้น ให้ทำการเปลี่ยน PATH ของ CMD ให้อยู่ในPATH เดียวกับ AloanEmailClient.py โดยใช้คำสั่งcd เช่น
    ```
    (Aloan) C:\Users\USER>cd desktop
    
