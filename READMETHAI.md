@@ -84,7 +84,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    ```
    python AloanEmailClient.py
    ```
-   
+
 ### การรันบน Anaconda Prompt
 
 1. ทำการ download [AloanEmailClient.py](https://github.com/mopokan/AloanEmailSystem/blob/main/src/AloanEmailClient.py)
