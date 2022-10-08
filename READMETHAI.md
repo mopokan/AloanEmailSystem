@@ -41,7 +41,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        ```
 2. Anaconda environment.yml install-->วิธีนี้แนะนำสำหรับผู้ที่เป็นมือใหม่ โดยโปรแกรมนี้จะทำการติดตั้งlibraryที่จำเป็นอัตโนมัติและช่วยในการจัดการ environment ของโปรแกรม
    - ทำการ install [Anaconda](https://www.anaconda.com/products/distribution)
-   - เมื่อ install Anaconda เรียบร้อยแล้ว ให้ทำการ download [environment.yml](https://github.com/mopokan/AloanEmailSystem/blob/main/src/environment.yml) โดยให้ไฟล์นี้อยู่ใน PATH C:\Users\xxx
+   - เมื่อ install Anaconda เรียบร้อยแล้ว ให้ทำการ download [environment.yml](https://github.com/mopokan/AloanEmailSystem/blob/main/src/environment.yml) โดยให้ไฟล์นี้อยู่ใน PATH C:\Users\USER
    - จากนั้น ทำการเปิด Anaconda prompt และพิมพ์คำสั่งดังต่อไปนี้ โดยพิมพ์และรันครั้งละ1บรรทัด
      - ```
        conda env create -f environment.yml
@@ -49,7 +49,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
        ```
    - เมื่อสำเร็จจะมีชื่อนำหน้า PATH เช่น
      - ```
-       (Aloan) C:\Users\xxx>
+       (Aloan) C:\Users\USER>
        ```
 
 ## Parameter Configuration
@@ -73,9 +73,9 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    ```
 3. หลังจากนั้น ให้ทำการเปลี่ยน PATH ของ cmd ให้อยู่ในPATH เดียวกับ AloanEmailClient.py โดยใช้คำสั่งcd เช่น
    ```
-   (Aloan) C:\Users\xxx>cd desktop
+   (Aloan) C:\Users\USER>cd desktop
    
-   (Aloan) C:\Users\xxx\Desktop>
+   (Aloan) C:\Users\USER\Desktop>
    ```
 4. ทำการรันโดยใช้คำสั่งดังต่อไปนี้
    ```
@@ -83,7 +83,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    ```
 5. โดยเมื่อรันแล้ว โปรแกรมจะแสดงผลลักษณะดังนี้
    ```
-   (Aloan) C:\Users\xxx\Desktop>python AloanEmailClient.py
+   (Aloan) C:\Users\USER\Desktop>python AloanEmailClient.py
 
    Welcome to Aloan email system. Please fill your information:
    The Aloan mail system is a decentralized email system. That means no server fail incident
