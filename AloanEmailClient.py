@@ -83,7 +83,7 @@ if (web3.isConnected() == True):#checking connection status
 n=input("Who do you want to talk(wallet address):")#input opponent wallet address
 balanceCheck()
 while(True):
-    print("lastest mail(e),write some email(w),Your Quota(yq),Exit(!ex!)")
+    print("latest mail(e),write some email(w),Your Quota(yq),Exit(!ex!)")
     r=input("You:")#input your command
     if(r=="e"):
         Aloan_mail_read()
