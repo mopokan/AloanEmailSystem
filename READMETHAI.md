@@ -10,7 +10,7 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
 
 **โปรเจคนี้จะใช้ Decentralized smart contract ของ Binance smart chain ในการสาธิตหลักการทำงานของ AloanEmailSystem**
 <p align="center">
-  <img alt="Working diagram of Email System and AloanEmailSystem." src="https://github.com/mopokan/AloanEmailSystem/blob/main/Email&AloanEmailSystem_workingDiagram.jpg?raw=true" width="848" height="500">
+  <img alt="Working diagram of Email System and AloanEmailSystem." src="https://github.com/mopokan/AloanEmailSystem/blob/main/imgfolder/Email%26AloanEmailSystem_workingDiagram.jpg" width="848" height="500">
 </p>
 
 ในส่วนของหลักการทำงานของ AloanEmailSystem จะเริ่มต้นการทำงานเมื่อผู้ใช้ทำการรันโปรแกรม AloanEmailClient.py โดยโปรแกรมนี้จะทำการเก็บข้อมูลผู้ส่งที่เราต้องการจะติดต่อ และให้ผู้ใช้เลือก1ใน3โหมดที่ต้องการใช้งาน ได้แก่
