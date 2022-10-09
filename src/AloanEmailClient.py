@@ -100,18 +100,3 @@ while(True):
     else:
         print("error")
          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
