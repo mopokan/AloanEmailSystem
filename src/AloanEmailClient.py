@@ -82,7 +82,7 @@ if (web3.isConnected() == True):#checking connection status
     print("--->Go-Online :)")
 
 IU=input("Who do you want to talk(wallet address):")#input opponent wallet address
-n=Web3.toText(hexstr= IU) 
+n=Web3.toChecksumAddress(IU)
 balanceCheck()
 while(True):
     print("latest mail(e),write some email(w),Your Quota(yq),Exit(!ex!)")
