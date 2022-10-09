@@ -121,4 +121,4 @@ AloanEmailSystem เป็นระบบอีเมลอย่างง่า
    latest mail(e),write some email(w),Your Quota(yq),Exit(!ex!)
    You:
    ```
-   
+   สำหรับการรันทดสอบ สามารถรับชมวิดิโอผ่านทาง[YOUTUBE](https://www.youtube.com/watch?v=wS-YlE7Rr0A)
