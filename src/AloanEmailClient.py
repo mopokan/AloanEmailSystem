@@ -59,6 +59,7 @@ def Aloan_mail_read():
     else:
         print("opponent:Don't have latest mail.")
         print(" "" "" "" ")
+        CN.clear()
 #The duty of Aloan_mail_write() function is to write an email and send it to an opponent
 def Aloan_mail_write():
     print(" "" "" "" ")
