@@ -2,12 +2,7 @@
 >### AloanEmailSystem เป็นโปรเจคที่สาธิตวิธีการสร้างระบบอีเมลอย่างง่ายโดยใช้ decentralized smart contract แทนที่การใช้ระบบ server แบบดั้งเดิม
 
 <p align="center">
-<iframe width="560" height="315"
-src="https://youtu.be/wS-YlE7Rr0A" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wS-YlE7Rr0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 AloanEmailSystem เป็นระบบอีเมลอย่างง่าย โดยระบบนี้สามารถรับ-ส่งอีเมลจากคนหนึ่งสู่อีกคนหนึ่งได้โดยอาศัยเทคโนโลยีบล็อกเชน ข้อได้เปรียบของการใช้เทคโนโลยีนี้คือ AloanEmailSystem จะเป็นระบบอีเมลที่มี       โอกาสล่มตํ่ามากเมื่อเทียบกับระบบเซิร์ฟเวอร์แบบดั้งเดิม เนื่องจากรูปแบบการทำงานแบบกระจายศูนย์(Decentralized)ของบล็อกเชน ทำให้เมื่อเกิดเหตุการณ์ที่อาจจะทำให้คอมพิวเตอร์ หรือ เซิร์ฟเวอร์บางส่วนในระบบเสียหาย 
